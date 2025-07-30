@@ -6,7 +6,7 @@ made by Octic
 ## Build
 1. Install zip
    - MacOS: `brew install zip`
-   - Linux: `pacman -S zip` / `apt install zip` / ...
+   - Linux: `sudo pacman -S zip` / `sudo apt install zip` / ...
 2. run `git clone https://github.com/oct1c/ipamaker && cd ipamaker`
 3. run `gcc -o ipamaker ipamaker.c`
 4. run `sudo cp ./ipamaker /usr/bin/ipamaker`
